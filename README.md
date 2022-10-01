@@ -1,0 +1,2 @@
+# PatikaDevNotHesaplama
+www.patika.dev 
